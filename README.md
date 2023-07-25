@@ -1,0 +1,2 @@
+- 👋 Hi, I’m 엄지성
+- 👀 I’m interested in java!
