@@ -5,7 +5,6 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eom2002123)]()
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umjiseung&theme=high-contrast&height=250" alt="GitHub Activity Graph">
    <p>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" alt="VS Code Badge"/>
   </p>
   <details>
 <summary>
