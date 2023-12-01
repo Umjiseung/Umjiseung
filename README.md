@@ -2,7 +2,7 @@
 
   ![Spring Badge](http://img.shields.io/badge/-55/100-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eom2002123)]()
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umjiseung&theme=high-contrast&height=250" alt="GitHub Activity Graph">
    <p>
   </p>
