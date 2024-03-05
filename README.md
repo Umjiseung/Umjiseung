@@ -1,3 +1,5 @@
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umjiseung&langs_count=10)](https://github.com/Umjiseung/Umjiseung)
+
 <div align=center>
 
   ![Spring Badge](http://img.shields.io/badge/-55/100-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
@@ -17,3 +19,6 @@
 </details>   
  
   </div>    
+
+
+ 
