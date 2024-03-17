@@ -6,7 +6,7 @@
   
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umjiseung&theme=high-contrast&height=250" alt="GitHub Activity Graph">
-   <p>
+   <p> 
   </p>
   <details>
 <summary>
