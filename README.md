@@ -1,10 +1,6 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umjiseung&langs_count=10)](https://github.com/Umjiseung/Umjiseung)
 
 <div align=center>
-
-  ![Spring Badge](http://img.shields.io/badge/-55/100-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-  
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umjiseung&theme=high-contrast&height=250" alt="GitHub Activity Graph">
    <p> 
   </p>
@@ -16,9 +12,15 @@
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 
-</details>   
+</details> 
 
- 
+---
+
+contact: s23013@gsm.hs.kr
+
+<a href = "https://jsback.tistory.com/">
+<img alt="Tistory" src ="https://img.shields.io/badge/Tistory-FF5D01?style=flat-square&logo=tistory&logoColor=white">
+</a>
   </div>    
 
 
