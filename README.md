@@ -1,3 +1,12 @@
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/Umjiseung"
+  width="600"
+  height="300"
+/>
+</a>
+
+
 <div align=center>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umjiseung&theme=high-contrast&height=250" alt="GitHub Activity Graph">
    <p> 
